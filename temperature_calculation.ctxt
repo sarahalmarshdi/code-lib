@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=temperature_calculation
+comment1.params=temp
+comment1.target=void\ celsius(double)
+comment2.params=temp
+comment2.target=void\ fahrenheit(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
